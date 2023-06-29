@@ -1,11 +1,17 @@
-input: .
+input: ./docs/
 output: .retype
 url: https://kempchen.github.io
+cname: docs.vk-tech.de
 branding:
   title: VK-Tech
   label: Docs
 links:
   - text: My Website
     link: https://www.vk-tech.de
+  - text: Impressum
+    link: https://www.vk-tech.de/impressum/
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
+# For Development
+# edit:
+#   repo: "https://github.com/kempchen/kempchen.github.io"
