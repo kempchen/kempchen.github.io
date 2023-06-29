@@ -1,8 +1,0 @@
-site_name: VK-Tech
-copyright: by Kempchen
-repo_url: https://github.com/kempchen/kempchen.github.io/
-repo_name: GitHub
-site_url: https://kempchen.github.io/mydocs
-
-nav:
-    - Home: '.index.md'
