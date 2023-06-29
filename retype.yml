@@ -1,11 +1,11 @@
 input: .
 output: .retype
-url: # Add your website address here
+url: https://kempchen.github.io
 branding:
   title: VK-Tech
   label: Docs
 links:
-  - text: Getting Started
-    link: https://retype.com/guides/getting-started/
+  - text: My Website
+    link: https://www.vk-tech.de
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
